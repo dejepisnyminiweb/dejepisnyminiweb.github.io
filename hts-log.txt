@@ -1,0 +1,49 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Dec 2022 14:07:34 at https://www.aleslanger.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.aleslanger.com/ -O1 "C:\My Web Sites\dejepisny_miniweb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:08:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.aleslanger.com/images/i287104489292840574._szw480h1280_.jpg (from https://www.aleslanger.com/)
+14:08:11	Error: 	"Not Found" (404) at link https://www.aleslanger.com/c/js/version3/frontendApp/init/frontendApp.min.js?_v=36735ea55926d39f989670ec304e3846 (from https://www.aleslanger.com/)
+14:08:12	Error: 	"Not Found" (404) at link https://www.aleslanger.com/images/fancybox-2.1.5/fancybox_sprite.png (from https://www.aleslanger.com/css/36648179.design.v1641295449.css)
+14:08:12	Error: 	"Not Found" (404) at link https://www.aleslanger.com/images/fancybox-2.1.5/fancybox_loading.gif (from https://www.aleslanger.com/css/36648179.design.v1641295449.css)
+14:08:12	Error: 	"Not Found" (404) at link https://www.aleslanger.com/images/fancybox-2.1.5/blank.gif (from https://www.aleslanger.com/css/36648179.design.v1641295449.css)
+14:08:12	Error: 	"Not Found" (404) at link https://www.aleslanger.com/images/fancybox-2.1.5/fancybox_overlay.png (from https://www.aleslanger.com/css/36648179.design.v1641295449.css)
+14:08:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.aleslanger.com/images/fancybox-2.1.5/fancybox_sprite@2x.png (from https://www.aleslanger.com/css/36648179.design.v1641295449.css)
+14:08:12	Error: 	"Not Found" (404) at link https://www.aleslanger.com/images/fancybox-2.1.5/fancybox_loading@2x.gif (from https://www.aleslanger.com/css/36648179.design.v1641295449.css)
+14:08:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.aleslanger.com/fonts/fa-brands-400.woff2 (from https://www.aleslanger.com/css/fontawesome-all.css)
+14:08:12	Warning: 	File not parsed, looks like binary: https://www.aleslanger.com/fonts/fa-regular-400.woff2
+14:08:12	Warning: 	File not parsed, looks like binary: https://www.aleslanger.com/fonts/fa-solid-900.woff2
+14:08:13	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422683590 (from https://www.aleslanger.com/422683590.html)
+14:08:13	Error: 	"Not Found" (404) at link https://www.aleslanger.com/420255613 (from https://www.aleslanger.com/420255613.html)
+14:08:13	Error: 	"Not Found" (404) at link https://www.aleslanger.com/420255602 (from https://www.aleslanger.com/420255602.html)
+14:08:13	Error: 	"Not Found" (404) at link https://www.aleslanger.com/420255628 (from https://www.aleslanger.com/420255628.html)
+14:08:13	Error: 	"Not Found" (404) at link https://www.aleslanger.com/420255634 (from https://www.aleslanger.com/420255634.html)
+14:08:13	Error: 	"Not Found" (404) at link https://www.aleslanger.com/419098416 (from https://www.aleslanger.com/419098416.html)
+14:08:13	Error: 	"Not Found" (404) at link https://www.aleslanger.com/424659293 (from https://www.aleslanger.com/424659293.html)
+14:08:13	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422683514 (from https://www.aleslanger.com/422683514.html)
+14:08:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.aleslanger.com/422683514_1.html (from https://www.aleslanger.com/422683514.html)
+14:08:18	Error: 	"Not Found" (404) at link https://www.aleslanger.com/420163540 (from https://www.aleslanger.com/420163540.html)
+14:08:18	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422686296 (from https://www.aleslanger.com/422686296.html)
+14:08:18	Error: 	"Not Found" (404) at link https://www.aleslanger.com/420163545 (from https://www.aleslanger.com/420163545.html)
+14:08:18	Error: 	"Not Found" (404) at link https://www.aleslanger.com/420163552 (from https://www.aleslanger.com/420163552.html)
+14:08:18	Error: 	"Not Found" (404) at link https://www.aleslanger.com/420792675 (from https://www.aleslanger.com/420792675.html)
+14:08:18	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422620037 (from https://www.aleslanger.com/422620037.html)
+14:08:18	Error: 	"Not Found" (404) at link https://www.aleslanger.com/images/fancybox-2.1.5/fancybox_sprite@2x.png (from https://www.aleslanger.com/css/36648179.design.v1641295449.css)
+14:08:18	Warning: 	File not parsed, looks like binary: https://www.aleslanger.com/fonts/fa-brands-400.woff2
+14:08:18	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422683514?i=112979753 (from https://www.aleslanger.com/422683514_6.html)
+14:08:18	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422683514?i=112979763 (from https://www.aleslanger.com/422683514_7.html)
+14:08:18	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422683514?i=112979768 (from https://www.aleslanger.com/422683514_5.html)
+14:08:18	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422683514?i=112979777 (from https://www.aleslanger.com/422683514_3.html)
+14:08:18	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422683514?i=112979793 (from https://www.aleslanger.com/422683514_4.html)
+14:08:18	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422683514?i=112979809 (from https://www.aleslanger.com/422683514_2.html)
+14:08:19	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422683514?i=112979834 (from https://www.aleslanger.com/422683514_9.html)
+14:08:19	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422683514?i=112979846 (from https://www.aleslanger.com/422683514_8.html)
+14:08:19	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422686296?i=113988374 (from https://www.aleslanger.com/422686296_1.html)
+14:08:19	Error: 	"Not Found" (404) at link https://www.aleslanger.com/422683514?i=112979822 (from https://www.aleslanger.com/422683514_1.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 45 seconds : 153 links scanned, 117 files written (20957525 bytes overall) [19375208 bytes received at 430560 bytes/sec], 2246633 bytes transferred using HTTP compression in 38 files, ratio 27%, 15.3 requests per connection
+(31 errors, 7 warnings, 0 messages)
